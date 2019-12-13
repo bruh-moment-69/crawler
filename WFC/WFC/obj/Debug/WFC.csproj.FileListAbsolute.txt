@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\WFC\WFC\bin\Debug\WFC.exe.config
+C:\Users\Admin\source\repos\WFC\WFC\bin\Debug\WFC.exe
+C:\Users\Admin\source\repos\WFC\WFC\bin\Debug\WFC.pdb
+C:\Users\Admin\source\repos\WFC\WFC\obj\Debug\WFC.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WFC\WFC\obj\Debug\WFC.Form1.resources
+C:\Users\Admin\source\repos\WFC\WFC\obj\Debug\WFC.Properties.Resources.resources
+C:\Users\Admin\source\repos\WFC\WFC\obj\Debug\WFC.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WFC\WFC\obj\Debug\WFC.exe
+C:\Users\Admin\source\repos\WFC\WFC\obj\Debug\WFC.pdb
